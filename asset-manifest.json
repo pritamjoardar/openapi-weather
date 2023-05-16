@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/openapi-weather/static/css/main.8d2b3e74.css",
+    "main.js": "/openapi-weather/static/js/main.2b36ea37.js",
+    "index.html": "/openapi-weather/index.html",
+    "main.8d2b3e74.css.map": "/openapi-weather/static/css/main.8d2b3e74.css.map",
+    "main.2b36ea37.js.map": "/openapi-weather/static/js/main.2b36ea37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d2b3e74.css",
+    "static/js/main.2b36ea37.js"
+  ]
+}
